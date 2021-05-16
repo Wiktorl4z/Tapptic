@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WiktorApp</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="dummy_text">Lorem Ipsum</string>
+    <string name="dummy_number">666</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_msg">Can\'t fetch data, try again.</string>
+    <string name="retry">RETRY</string>
+</resources>
